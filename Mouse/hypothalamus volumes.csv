@@ -1,92 +1,92 @@
-Name,ID,Total Volume,Direct Volume
-Hypothalamus,1097,15196156250,2756718750
-Periventricular zone,157,778187500,0
-Supraoptic nucleus,390,46843750,46843750
-Accessory supraoptic group,332,6062500,6062500
-Nucleus circularis,432,0,0
-Paraventricular hypothalamic nucleus,38,188687500,188687500
-"Paraventricular hypothalamic nucleus, magnocellular division",71,0,0
-"Paraventricular hypothalamic nucleus, magnocellular division, anterior magnocellular part",47,0,0
-"Paraventricular hypothalamic nucleus, magnocellular division, medial magnocellular part",79,0,0
-"Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part",103,0,0
-"Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part, lateral zone",652,0,0
-"Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part, medial zone",660,0,0
-"Paraventricular hypothalamic nucleus, parvicellular division",94,0,0
-"Paraventricular hypothalamic nucleus, parvicellular division, anterior parvicellular part",55,0,0
-"Paraventricular hypothalamic nucleus, parvicellular division, medial parvicellular part, dorsal zone",87,0,0
-"Paraventricular hypothalamic nucleus, parvicellular division, periventricular part",110,0,0
-"Periventricular hypothalamic nucleus, anterior part",30,49859375,49859375
-"Periventricular hypothalamic nucleus, intermediate part",118,200406250,200406250
-Arcuate hypothalamic nucleus,223,286328125,286328125
-Periventricular region,141,2049718750,0
-Anterodorsal preoptic nucleus,72,99765625,99765625
-Anterior hypothalamic area,80,0,0
-Anteroventral preoptic nucleus,263,92156250,92156250
-Anteroventral periventricular nucleus,272,182984375,182984375
-Dorsomedial nucleus of the hypothalamus,830,376062500,376062500
-"Dorsomedial nucleus of the hypothalamus, anterior part",668,0,0
-"Dorsomedial nucleus of the hypothalamus, posterior part",676,0,0
-"Dorsomedial nucleus of the hypothalamus, ventral part",684,0,0
-Median preoptic nucleus,452,40546875,40546875
-Medial preoptic area,523,556953125,556953125
-Vascular organ of the lamina terminalis,763,8750000,8750000
-Posterodorsal preoptic nucleus,914,11609375,11609375
-Parastrial nucleus,1109,96453125,96453125
-Suprachiasmatic preoptic nucleus,1124,0,0
-"Periventricular hypothalamic nucleus, posterior part",126,126968750,126968750
-"Periventricular hypothalamic nucleus, preoptic part",133,143093750,143093750
-Subparaventricular zone,347,109500000,109500000
-Suprachiasmatic nucleus,286,66078125,66078125
-Subfornical organ,338,21593750,21593750
-Ventromedial preoptic nucleus,576073699,50156250,50156250
-Ventrolateral preoptic nucleus,689,67046875,67046875
-Hypothalamic medial zone,467,3845984375,0
-Anterior hypothalamic nucleus,88,710406250,710406250
-"Anterior hypothalamic nucleus, anterior part",700,0,0
-"Anterior hypothalamic nucleus, central part",708,0,0
-"Anterior hypothalamic nucleus, dorsal part",716,0,0
-"Anterior hypothalamic nucleus, posterior part",724,0,0
-Mammillary body,331,1016109375,0
-Lateral mammillary nucleus,210,77359375,77359375
-Medial mammillary nucleus,491,540640625,0
-"Medial mammillary nucleus, median part",732,77609375,77609375
-"Medial mammillary nucleus, lateral part",606826647,213421875,213421875
-"Medial mammillary nucleus, medial part",606826651,136093750,136093750
-"Medial mammillary nucleus, posterior part",606826655,37312500,37312500
-"Medial mammillary nucleus, dorsal part",606826659,76203125,76203125
-Supramammillary nucleus,525,254765625,254765625
-"Supramammillary nucleus, lateral part",1110,0,0
-"Supramammillary nucleus, medial part",1118,0,0
-Tuberomammillary nucleus,557,143343750,0
-"Tuberomammillary nucleus, dorsal part",1126,35046875,35046875
-"Tuberomammillary nucleus, ventral part",1,108296875,108296875
-Medial preoptic nucleus,515,404625000,404625000
-"Medial preoptic nucleus, central part",740,0,0
-"Medial preoptic nucleus, lateral part",748,0,0
-"Medial preoptic nucleus, medial part",756,0,0
-Dorsal premammillary nucleus,980,131765625,131765625
-Ventral premammillary nucleus,1004,195750000,195750000
-"Paraventricular hypothalamic nucleus, descending division",63,130765625,130765625
-"Paraventricular hypothalamic nucleus, descending division, dorsal parvicellular part",439,0,0
-"Paraventricular hypothalamic nucleus, descending division, forniceal part",447,0,0
-"Paraventricular hypothalamic nucleus, descending division, lateral parvicellular part",455,0,0
-"Paraventricular hypothalamic nucleus, descending division, medial parvicellular part, ventral zone",464,0,0
-Ventromedial hypothalamic nucleus,693,549515625,549515625
-"Ventromedial hypothalamic nucleus, anterior part",761,0,0
-"Ventromedial hypothalamic nucleus, central part",769,0,0
-"Ventromedial hypothalamic nucleus, dorsomedial part",777,0,0
-"Ventromedial hypothalamic nucleus, ventrolateral part",785,0,0
-Posterior hypothalamic nucleus,946,707046875,707046875
-Hypothalamic lateral zone,290,5686218750,0
-Lateral hypothalamic area,194,2071406250,2071406250
-Lateral preoptic area,226,554984375,554984375
-Preparasubthalamic nucleus,356,12750000,12750000
-Parasubthalamic nucleus,364,166062500,166062500
-Perifornical nucleus,576073704,214500000,214500000
-Retrochiasmatic area,173,147640625,147640625
-Subthalamic nucleus,470,194734375,194734375
-Tuberal nucleus,614,523437500,523437500
-Zona incerta,797,1800703125,1559468750
-Dopaminergic A13 group,796,0,0
-Fields of Forel,804,241234375,241234375
-Median eminence,10671,79328125,79328125
+Name,ID,Total Volume (mm3),Direct Volume (mm3),Radius (mm)
+Hypothalamus,1097,15.19615625,2.75671875,1.5365559560042985
+Periventricular zone,157,0.7781875,0.0,0.5706001485533567
+Supraoptic nucleus,390,0.04684375,0.04684375,0.22362534061686332
+Accessory supraoptic group,332,0.0060625,0.0060625,0.113115220761427
+Nucleus circularis,432,0.0,0.0,0.0
+Paraventricular hypothalamic nucleus,38,0.1886875,0.1886875,0.3558100196392629
+"Paraventricular hypothalamic nucleus, magnocellular division",71,0.0,0.0,0.0
+"Paraventricular hypothalamic nucleus, magnocellular division, anterior magnocellular part",47,0.0,0.0,0.0
+"Paraventricular hypothalamic nucleus, magnocellular division, medial magnocellular part",79,0.0,0.0,0.0
+"Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part",103,0.0,0.0,0.0
+"Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part, lateral zone",652,0.0,0.0,0.0
+"Paraventricular hypothalamic nucleus, magnocellular division, posterior magnocellular part, medial zone",660,0.0,0.0,0.0
+"Paraventricular hypothalamic nucleus, parvicellular division",94,0.0,0.0,0.0
+"Paraventricular hypothalamic nucleus, parvicellular division, anterior parvicellular part",55,0.0,0.0,0.0
+"Paraventricular hypothalamic nucleus, parvicellular division, medial parvicellular part, dorsal zone",87,0.0,0.0,0.0
+"Paraventricular hypothalamic nucleus, parvicellular division, periventricular part",110,0.0,0.0,0.0
+"Periventricular hypothalamic nucleus, anterior part",30,0.049859375,0.049859375,0.22832461830549217
+"Periventricular hypothalamic nucleus, intermediate part",118,0.20040625,0.20040625,0.36302863616879766
+Arcuate hypothalamic nucleus,223,0.286328125,0.286328125,0.4088761701314111
+Periventricular region,141,2.04971875,0.0,0.7880163374286988
+Anterodorsal preoptic nucleus,72,0.099765625,0.099765625,0.2877160611183522
+Anterior hypothalamic area,80,0.0,0.0,0.0
+Anteroventral preoptic nucleus,263,0.09215625,0.09215625,0.2802068373342105
+Anteroventral periventricular nucleus,272,0.182984375,0.182984375,0.3521884689446629
+Dorsomedial nucleus of the hypothalamus,830,0.3760625,0.3760625,0.44777221340181234
+"Dorsomedial nucleus of the hypothalamus, anterior part",668,0.0,0.0,0.0
+"Dorsomedial nucleus of the hypothalamus, posterior part",676,0.0,0.0,0.0
+"Dorsomedial nucleus of the hypothalamus, ventral part",684,0.0,0.0,0.0
+Median preoptic nucleus,452,0.040546875,0.040546875,0.21311937128608222
+Medial preoptic area,523,0.556953125,0.556953125,0.5103992316381931
+Vascular organ of the lamina terminalis,763,0.00875,0.00875,0.12783206794363597
+Posterodorsal preoptic nucleus,914,0.011609375,0.011609375,0.14046670987961596
+Parastrial nucleus,1109,0.096453125,0.096453125,0.28449582527745554
+Suprachiasmatic preoptic nucleus,1124,0.0,0.0,0.0
+"Periventricular hypothalamic nucleus, posterior part",126,0.12696875,0.12696875,0.31179519031215785
+"Periventricular hypothalamic nucleus, preoptic part",133,0.14309375,0.14309375,0.32447209431764484
+Subparaventricular zone,347,0.1095,0.1095,0.29678492443083954
+Suprachiasmatic nucleus,286,0.066078125,0.066078125,0.25079740235242026
+Subfornical organ,338,0.02159375,0.02159375,0.17274804981827457
+Ventromedial preoptic nucleus,576073699,0.05015625,0.05015625,0.22877688885222175
+Ventrolateral preoptic nucleus,689,0.067046875,0.067046875,0.252017081034763
+Hypothalamic medial zone,467,3.845984375,0.0,0.9719404019493543
+Anterior hypothalamic nucleus,88,0.71040625,0.71040625,0.5535277370811791
+"Anterior hypothalamic nucleus, anterior part",700,0.0,0.0,0.0
+"Anterior hypothalamic nucleus, central part",708,0.0,0.0,0.0
+"Anterior hypothalamic nucleus, dorsal part",716,0.0,0.0,0.0
+"Anterior hypothalamic nucleus, posterior part",724,0.0,0.0,0.0
+Mammillary body,331,1.016109375,0.0,0.6236639145873467
+Lateral mammillary nucleus,210,0.077359375,0.077359375,0.26432695176618365
+Medial mammillary nucleus,491,0.540640625,0.0,0.5053667784213437
+"Medial mammillary nucleus, median part",732,0.077609375,0.077609375,0.2646113847805917
+"Medial mammillary nucleus, lateral part",606826647,0.213421875,0.213421875,0.3707234919831014
+"Medial mammillary nucleus, medial part",606826651,0.13609375,0.13609375,0.3190924465985638
+"Medial mammillary nucleus, posterior part",606826655,0.0373125,0.0373125,0.2072948819982881
+"Medial mammillary nucleus, dorsal part",606826659,0.076203125,0.076203125,0.2630034168726248
+Supramammillary nucleus,525,0.254765625,0.254765625,0.393263892288169
+"Supramammillary nucleus, lateral part",1110,0.0,0.0,0.0
+"Supramammillary nucleus, medial part",1118,0.0,0.0,0.0
+Tuberomammillary nucleus,557,0.14334375,0.0,0.324660946797863
+"Tuberomammillary nucleus, dorsal part",1126,0.035046875,0.035046875,0.20301130834187633
+"Tuberomammillary nucleus, ventral part",1,0.108296875,0.108296875,0.2956939498078811
+Medial preoptic nucleus,515,0.404625,0.404625,0.45883305867055835
+"Medial preoptic nucleus, central part",740,0.0,0.0,0.0
+"Medial preoptic nucleus, lateral part",748,0.0,0.0,0.0
+"Medial preoptic nucleus, medial part",756,0.0,0.0,0.0
+Dorsal premammillary nucleus,980,0.131765625,0.131765625,0.31567329177185255
+Ventral premammillary nucleus,1004,0.19575,0.19575,0.36019503363367117
+"Paraventricular hypothalamic nucleus, descending division",63,0.130765625,0.130765625,0.31487269032876153
+"Paraventricular hypothalamic nucleus, descending division, dorsal parvicellular part",439,0.0,0.0,0.0
+"Paraventricular hypothalamic nucleus, descending division, forniceal part",447,0.0,0.0,0.0
+"Paraventricular hypothalamic nucleus, descending division, lateral parvicellular part",455,0.0,0.0,0.0
+"Paraventricular hypothalamic nucleus, descending division, medial parvicellular part, ventral zone",464,0.0,0.0,0.0
+Ventromedial hypothalamic nucleus,693,0.549515625,0.549515625,0.5081171016202396
+"Ventromedial hypothalamic nucleus, anterior part",761,0.0,0.0,0.0
+"Ventromedial hypothalamic nucleus, central part",769,0.0,0.0,0.0
+"Ventromedial hypothalamic nucleus, dorsomedial part",777,0.0,0.0,0.0
+"Ventromedial hypothalamic nucleus, ventrolateral part",785,0.0,0.0,0.0
+Posterior hypothalamic nucleus,946,0.707046875,0.707046875,0.5526538492876963
+Hypothalamic lateral zone,290,5.68621875,0.0,1.1072482041928888
+Lateral hypothalamic area,194,2.07140625,2.07140625,0.7907858525054986
+Lateral preoptic area,226,0.554984375,0.554984375,0.5097971254216191
+Preparasubthalamic nucleus,356,0.01275,0.01275,0.14492407101392776
+Parasubthalamic nucleus,364,0.1660625,0.1660625,0.3409790167937563
+Perifornical nucleus,576073704,0.2145,0.2145,0.3713466944656177
+Retrochiasmatic area,173,0.147640625,0.147640625,0.3278730760925155
+Subthalamic nucleus,470,0.194734375,0.194734375,0.35957101049674794
+Tuberal nucleus,614,0.5234375,0.5234375,0.499948659111068
+Zona incerta,797,1.800703125,1.55946875,0.7547176436836649
+Dopaminergic A13 group,796,0.0,0.0,0.0
+Fields of Forel,804,0.241234375,0.241234375,0.3861744422535662
+Median eminence,10671,0.079328125,0.079328125,0.26655051545884273
