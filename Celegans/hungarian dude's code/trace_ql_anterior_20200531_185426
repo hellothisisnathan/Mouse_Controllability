@@ -1,0 +1,2011 @@
+episode 0
+input: 
+[ 992.92471819 1264.29778388  912.76014884]
+action 755
+thresholds: 
+dict_items([('LF', 9), ('RF', 6), ('LB', 9), ('RB', 20)])
+dir: -180, dist: 0.3
+REWARD: -0.15
+0.0
+-0.075
+episode 1
+input: 
+[1602.90165956  917.33365145  759.11059136]
+action 0
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 3)])
+dir: -30, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 2
+input: 
+[ 977.14093868 1164.1994276  1493.87469598]
+action 1
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 6)])
+dir: -30, dist: 0.4
+REWARD: -0.03333333333333333
+0.0
+-0.016666666666666666
+episode 3
+input: 
+[ 817.01231535 1058.90087334  935.99050704]
+action 2026
+thresholds: 
+dict_items([('LF', 17), ('RF', 20), ('LB', 9), ('RB', 12)])
+dir: 60, dist: 0.1
+REWARD: -0.016666666666666666
+0.0
+-0.008333333333333333
+episode 4
+input: 
+[1142.91656117  715.59563336 1133.44149572]
+action 608
+thresholds: 
+dict_items([('LF', 6), ('RF', 17), ('LB', 9), ('RB', 20)])
+dir: 60, dist: 0.4
+REWARD: -0.06666666666666667
+0.0
+-0.03333333333333333
+episode 5
+input: 
+[1028.70440952  905.46642399  878.63874733]
+action 1458
+thresholds: 
+dict_items([('LF', 15), ('RF', 6), ('LB', 17), ('RB', 9)])
+dir: -90, dist: 0.4
+REWARD: -0.1
+0.0
+-0.05
+episode 6
+input: 
+[1210.6191057  1005.08139369  927.10116242]
+action 1520
+thresholds: 
+dict_items([('LF', 15), ('RF', 12), ('LB', 3), ('RB', 6)])
+dir: -60, dist: 0.4
+REWARD: -0.06666666666666667
+0.0
+-0.03333333333333333
+episode 7
+input: 
+[ 735.98123878 1071.78578236  879.16297008]
+action 2154
+thresholds: 
+dict_items([('LF', 20), ('RF', 6), ('LB', 20), ('RB', 17)])
+dir: -240, dist: 0.1
+REWARD: -0.06666666666666667
+0.0
+-0.03333333333333333
+episode 8
+input: 
+[1182.36260081 1152.64135652 1081.12452564]
+action 1262
+thresholds: 
+dict_items([('LF', 12), ('RF', 15), ('LB', 17), ('RB', 9)])
+dir: -30, dist: 0.4
+REWARD: -0.03333333333333333
+0.0
+-0.016666666666666666
+episode 9
+input: 
+[1204.11497916  844.72724223 1216.29074144]
+action 334
+thresholds: 
+dict_items([('LF', 3), ('RF', 20), ('LB', 17), ('RB', 17)])
+dir: 180, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 10
+input: 
+[773.02003078 738.89356795 931.19442531]
+action 335
+thresholds: 
+dict_items([('LF', 3), ('RF', 20), ('LB', 17), ('RB', 20)])
+dir: 210, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 11
+input: 
+[ 720.1782811  1206.53806294  954.58325197]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.6
+REWARD: 0.6
+0.0
+0.3
+episode 12
+input: 
+[ 952.19802668 1025.50684049  908.87730169]
+action 2066
+thresholds: 
+dict_items([('LF', 20), ('RF', 3), ('LB', 6), ('RB', 6)])
+dir: -210, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 13
+input: 
+[1295.08327311  832.65534755 1023.84528487]
+action 1326
+thresholds: 
+dict_items([('LF', 12), ('RF', 20), ('LB', 3), ('RB', 12)])
+dir: 30, dist: 0.7
+REWARD: -0.05833333333333333
+0.0
+-0.029166666666666664
+episode 14
+input: 
+[1284.42463691 1069.72659763 1256.88032445]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: -30, dist: 0.5
+REWARD: -0.041666666666666664
+0.3
+0.2791666666666667
+episode 15
+input: 
+[ 787.85113518 1166.50583214 1099.20149277]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.6
+REWARD: 0.6
+0.2791666666666667
+0.5791666666666666
+episode 16
+input: 
+[641.85658549 966.84071183 850.4662544 ]
+action 179
+thresholds: 
+dict_items([('LF', 3), ('RF', 12), ('LB', 15), ('RB', 15)])
+dir: 120, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 17
+input: 
+[ 693.64029337 1152.24372336 1013.78968692]
+action 163
+thresholds: 
+dict_items([('LF', 3), ('RF', 12), ('LB', 9), ('RB', 9)])
+dir: 150, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 18
+input: 
+[ 720.96437278 1219.85824766 1167.0266617 ]
+action 1853
+thresholds: 
+dict_items([('LF', 17), ('RF', 9), ('LB', 17), ('RB', 17)])
+dir: -30, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 19
+input: 
+[ 962.78759526 1161.55091034  789.80093384]
+action 2003
+thresholds: 
+dict_items([('LF', 17), ('RF', 17), ('LB', 20), ('RB', 6)])
+dir: 0, dist: 0.5
+REWARD: 0.5
+0.0
+0.25
+episode 20
+input: 
+[ 880.35242091  861.45294937 1485.2334785 ]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.6
+REWARD: 0.6
+0.5791666666666666
+0.8791666666666667
+episode 21
+input: 
+[ 915.03294655 1060.66192855  893.19947386]
+action 1750
+thresholds: 
+dict_items([('LF', 17), ('RF', 3), ('LB', 17), ('RB', 3)])
+dir: -180, dist: 0.5
+REWARD: -0.25
+0.0
+-0.125
+episode 22
+input: 
+[ 869.38223484 1034.12708522  875.45026218]
+action 607
+thresholds: 
+dict_items([('LF', 6), ('RF', 17), ('LB', 9), ('RB', 17)])
+dir: 60, dist: 0.4
+REWARD: -0.06666666666666667
+0.0
+-0.03333333333333333
+episode 23
+input: 
+[ 931.60768172 1046.1410369   618.7617797 ]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.6
+REWARD: 0.6
+0.8791666666666667
+1.1791666666666667
+episode 24
+input: 
+[1475.22974123  957.73476156 1182.87495361]
+action 1868
+thresholds: 
+dict_items([('LF', 17), ('RF', 12), ('LB', 3), ('RB', 20)])
+dir: -30, dist: 0.8
+REWARD: -0.06666666666666667
+0.0
+-0.03333333333333333
+episode 25
+input: 
+[ 965.71292728 1170.16111087  875.330325  ]
+action 1689
+thresholds: 
+dict_items([('LF', 15), ('RF', 20), ('LB', 12), ('RB', 9)])
+dir: 90, dist: 0.1
+REWARD: -0.025
+0.0
+-0.0125
+episode 26
+input: 
+[1051.31552462  971.05780696 1559.73597491]
+action 1700
+thresholds: 
+dict_items([('LF', 15), ('RF', 20), ('LB', 15), ('RB', 20)])
+dir: 30, dist: 0.3
+REWARD: -0.024999999999999998
+0.0
+-0.012499999999999999
+episode 27
+input: 
+[1118.83068042  868.45238644  825.80465652]
+action 1514
+thresholds: 
+dict_items([('LF', 15), ('RF', 9), ('LB', 20), ('RB', 9)])
+dir: 0, dist: 0.3
+REWARD: 0.3
+0.0
+0.15
+episode 28
+input: 
+[1095.73609572  967.38899316 1004.78765233]
+action 2204
+thresholds: 
+dict_items([('LF', 20), ('RF', 9), ('LB', 20), ('RB', 20)])
+dir: -60, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 29
+input: 
+[ 773.77402582 1312.75061063  940.99348552]
+action 1821
+thresholds: 
+dict_items([('LF', 17), ('RF', 9), ('LB', 6), ('RB', 6)])
+dir: -60, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 30
+input: 
+[ 954.63647421 1134.01343473 1115.30369428]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.6
+REWARD: 0.6
+1.1791666666666667
+1.4791666666666667
+episode 31
+input: 
+[ 957.74574951  988.54023633 1084.20585221]
+action 1095
+thresholds: 
+dict_items([('LF', 12), ('RF', 6), ('LB', 9), ('RB', 12)])
+dir: -60, dist: 0.1
+REWARD: -0.016666666666666666
+0.0
+-0.008333333333333333
+episode 32
+input: 
+[ 945.865995    811.49691215 1059.37202923]
+action 1505
+thresholds: 
+dict_items([('LF', 15), ('RF', 9), ('LB', 17), ('RB', 3)])
+dir: 0, dist: 0.5
+REWARD: 0.5
+0.0
+0.25
+episode 33
+input: 
+[975.84129569 775.81543265 874.6384851 ]
+action 1194
+thresholds: 
+dict_items([('LF', 12), ('RF', 12), ('LB', 9), ('RB', 15)])
+dir: -60, dist: 0.3
+REWARD: -0.049999999999999996
+0.0
+-0.024999999999999998
+episode 34
+input: 
+[1055.17697092 1086.83464359 1087.90988968]
+action 78
+thresholds: 
+dict_items([('LF', 3), ('RF', 6), ('LB', 15), ('RB', 6)])
+dir: 0, dist: 0.4
+REWARD: 0.4
+0.0
+0.2
+episode 35
+input: 
+[1170.2618976  1072.64538761  887.10116734]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.5
+REWARD: 0.5
+1.4791666666666667
+1.7291666666666667
+episode 36
+input: 
+[1098.56308756  970.88258336  997.41720685]
+action 817
+thresholds: 
+dict_items([('LF', 9), ('RF', 9), ('LB', 15), ('RB', 17)])
+dir: -60, dist: 0.3
+REWARD: -0.049999999999999996
+0.0
+-0.024999999999999998
+episode 37
+input: 
+[1108.86555536  824.8697454   998.37603731]
+action 166
+thresholds: 
+dict_items([('LF', 3), ('RF', 12), ('LB', 9), ('RB', 17)])
+dir: 120, dist: 0.4
+REWARD: -0.13333333333333333
+0.0
+-0.06666666666666667
+episode 38
+input: 
+[1240.47254109  821.46828014 1119.09272715]
+action 2194
+thresholds: 
+dict_items([('LF', 20), ('RF', 9), ('LB', 17), ('RB', 12)])
+dir: -90, dist: 0.3
+REWARD: -0.075
+0.0
+-0.0375
+episode 39
+input: 
+[1052.89695038  880.9948226  1024.40191837]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.5
+REWARD: 0.5
+1.7291666666666667
+1.979166666666667
+episode 40
+input: 
+[778.79795534 811.83218386 541.3608049 ]
+action 855
+thresholds: 
+dict_items([('LF', 9), ('RF', 12), ('LB', 12), ('RB', 6)])
+dir: 0, dist: 0.4
+REWARD: 0.4
+0.0
+0.2
+episode 41
+input: 
+[608.11244207 962.65851946 858.06920779]
+action 791
+thresholds: 
+dict_items([('LF', 9), ('RF', 9), ('LB', 6), ('RB', 3)])
+dir: -30, dist: 0.3
+REWARD: -0.024999999999999998
+0.0
+-0.012499999999999999
+episode 42
+input: 
+[846.5740161  815.47595181 781.86622791]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 30, dist: 0.6
+REWARD: -0.049999999999999996
+1.979166666666667
+1.954166666666667
+episode 43
+input: 
+[1206.5838162  1129.63216771 1318.21771343]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: -30, dist: 0.6
+REWARD: -0.049999999999999996
+1.954166666666667
+1.9291666666666671
+episode 44
+input: 
+[909.51032435 567.41474518 649.73374869]
+action 1826
+thresholds: 
+dict_items([('LF', 17), ('RF', 9), ('LB', 6), ('RB', 20)])
+dir: -90, dist: 0.5
+REWARD: -0.125
+0.0
+-0.0625
+episode 45
+input: 
+[1149.48433221 1088.57633174 1100.5451006 ]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.5
+REWARD: 0.5
+1.9291666666666671
+2.179166666666667
+episode 46
+input: 
+[1301.36705229 1065.22672061 1083.91024509]
+action 457
+thresholds: 
+dict_items([('LF', 6), ('RF', 9), ('LB', 9), ('RB', 9)])
+dir: 30, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 47
+input: 
+[1090.43141491 1059.75010171  554.17300586]
+action 1145
+thresholds: 
+dict_items([('LF', 12), ('RF', 9), ('LB', 9), ('RB', 15)])
+dir: 0, dist: 0.3
+REWARD: 0.3
+0.0
+0.15
+episode 48
+input: 
+[ 993.52723267  937.42632082 1337.17990409]
+action 74
+thresholds: 
+dict_items([('LF', 3), ('RF', 6), ('LB', 12), ('RB', 15)])
+dir: 0, dist: 0.1
+REWARD: 0.1
+0.0
+0.05
+episode 49
+input: 
+[1114.17244589  868.24170275  841.90284464]
+action 968
+thresholds: 
+dict_items([('LF', 9), ('RF', 17), ('LB', 17), ('RB', 9)])
+dir: -30, dist: 0.4
+REWARD: -0.03333333333333333
+0.0
+-0.016666666666666666
+episode 50
+input: 
+[792.3763575  936.01706711 777.01240017]
+action 352
+thresholds: 
+dict_items([('LF', 6), ('RF', 3), ('LB', 6), ('RB', 9)])
+dir: -180, dist: 0.3
+REWARD: -0.15
+0.0
+-0.075
+episode 51
+input: 
+[1308.87635076 1025.06152764  821.22076732]
+action 1039
+thresholds: 
+dict_items([('LF', 12), ('RF', 3), ('LB', 6), ('RB', 12)])
+dir: -180, dist: 0.4
+REWARD: -0.2
+0.0
+-0.1
+episode 52
+input: 
+[822.10966022 868.9557628  944.43929001]
+action 1593
+thresholds: 
+dict_items([('LF', 15), ('RF', 15), ('LB', 12), ('RB', 15)])
+dir: -30, dist: 0.1
+REWARD: -0.008333333333333333
+0.0
+-0.004166666666666667
+episode 53
+input: 
+[919.29733989 832.03172487 833.51113451]
+action 2068
+thresholds: 
+dict_items([('LF', 20), ('RF', 3), ('LB', 6), ('RB', 12)])
+dir: -240, dist: 0.4
+REWARD: -0.26666666666666666
+0.0
+-0.13333333333333333
+episode 54
+input: 
+[1140.70930829 1031.55942138 1024.31059411]
+action 1609
+thresholds: 
+dict_items([('LF', 15), ('RF', 15), ('LB', 17), ('RB', 20)])
+dir: 0, dist: 0.1
+REWARD: 0.1
+0.0
+0.05
+episode 55
+input: 
+[ 925.77047261 1367.13114104  918.67033683]
+action 1608
+thresholds: 
+dict_items([('LF', 15), ('RF', 15), ('LB', 17), ('RB', 17)])
+dir: -30, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 56
+input: 
+[1380.41987359 1019.393333   1048.49634839]
+action 442
+thresholds: 
+dict_items([('LF', 6), ('RF', 9), ('LB', 3), ('RB', 6)])
+dir: 30, dist: 0.4
+REWARD: -0.03333333333333333
+0.0
+-0.016666666666666666
+episode 57
+input: 
+[979.4367136  963.19933174 750.95636793]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.6
+REWARD: 0.6
+2.179166666666667
+2.479166666666667
+episode 58
+input: 
+[ 746.28014623 1014.4638633   726.50125617]
+action 348
+thresholds: 
+dict_items([('LF', 6), ('RF', 3), ('LB', 3), ('RB', 17)])
+dir: -150, dist: 0.5
+REWARD: -0.20833333333333334
+0.0
+-0.10416666666666667
+episode 59
+input: 
+[1109.34801132  822.72719604  978.58429608]
+action 1714
+thresholds: 
+dict_items([('LF', 15), ('RF', 20), ('LB', 20), ('RB', 20)])
+dir: 90, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 60
+input: 
+[1020.70370569 1212.51762346  988.19225443]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: -30, dist: 0.5
+REWARD: -0.041666666666666664
+2.479166666666667
+2.458333333333334
+episode 61
+input: 
+[1183.11539202 1003.74997055  715.48958128]
+action 182
+thresholds: 
+dict_items([('LF', 3), ('RF', 12), ('LB', 17), ('RB', 3)])
+dir: 90, dist: 0.7
+REWARD: -0.175
+0.0
+-0.0875
+episode 62
+input: 
+[1221.38634746 1071.88404464  954.51911808]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.5
+REWARD: 0.5
+2.458333333333334
+2.708333333333334
+episode 63
+input: 
+[ 840.51479779 1150.74568816 1326.41529652]
+action 628
+thresholds: 
+dict_items([('LF', 6), ('RF', 17), ('LB', 17), ('RB', 17)])
+dir: 90, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 64
+input: 
+[ 949.80256803  899.20778238 1155.15861322]
+action 1406
+thresholds: 
+dict_items([('LF', 15), ('RF', 3), ('LB', 15), ('RB', 20)])
+dir: -150, dist: 0.2
+REWARD: -0.08333333333333334
+0.0
+-0.04166666666666667
+episode 65
+input: 
+[ 799.94904457 1099.68631935  748.94789122]
+action 1813
+thresholds: 
+dict_items([('LF', 17), ('RF', 9), ('LB', 3), ('RB', 3)])
+dir: -90, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 66
+input: 
+[ 890.70853423 1139.48804348  997.70713698]
+action 210
+thresholds: 
+dict_items([('LF', 3), ('RF', 15), ('LB', 9), ('RB', 3)])
+dir: 150, dist: 0.6
+REWARD: -0.25
+0.0
+-0.125
+episode 67
+input: 
+[ 829.36077347  893.69213446 1059.95214772]
+action 1480
+thresholds: 
+dict_items([('LF', 15), ('RF', 9), ('LB', 6), ('RB', 12)])
+dir: 0, dist: 0.5
+REWARD: 0.5
+0.0
+0.25
+episode 68
+input: 
+[1158.34306758 1234.09910677  666.52987065]
+action 2000
+thresholds: 
+dict_items([('LF', 17), ('RF', 17), ('LB', 17), ('RB', 17)])
+dir: 0, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 69
+input: 
+[ 886.99883545 1189.39216251 1063.27230933]
+action 980
+thresholds: 
+dict_items([('LF', 9), ('RF', 20), ('LB', 3), ('RB', 3)])
+dir: 30, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 70
+input: 
+[ 842.36910697 1160.80835722 1088.22427781]
+action 209
+thresholds: 
+dict_items([('LF', 3), ('RF', 15), ('LB', 6), ('RB', 20)])
+dir: 150, dist: 0.7
+REWARD: -0.2916666666666667
+0.0
+-0.14583333333333334
+episode 71
+input: 
+[1081.64844765 1018.67924227  848.99197715]
+action 286
+thresholds: 
+dict_items([('LF', 3), ('RF', 17), ('LB', 17), ('RB', 20)])
+dir: 150, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 72
+input: 
+[1019.22328625  980.04248798 1026.34926915]
+action 1788
+thresholds: 
+dict_items([('LF', 17), ('RF', 6), ('LB', 12), ('RB', 12)])
+dir: -150, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 73
+input: 
+[591.57281148 965.41367825 967.17902301]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.6
+REWARD: 0.6
+2.708333333333334
+3.0083333333333337
+episode 74
+input: 
+[1165.66952102 1073.58303665 1112.67655483]
+action 1889
+thresholds: 
+dict_items([('LF', 17), ('RF', 12), ('LB', 12), ('RB', 20)])
+dir: -30, dist: 0.2
+REWARD: -0.016666666666666666
+0.0
+-0.008333333333333333
+episode 75
+input: 
+[846.59943946 988.59324803 597.43233725]
+action 1784
+thresholds: 
+dict_items([('LF', 17), ('RF', 6), ('LB', 9), ('RB', 20)])
+dir: -120, dist: 0.3
+REWARD: -0.09999999999999999
+0.0
+-0.049999999999999996
+episode 76
+input: 
+[1007.71067566 1246.40763578  633.41900634]
+action 1540
+thresholds: 
+dict_items([('LF', 15), ('RF', 12), ('LB', 12), ('RB', 3)])
+dir: -30, dist: 0.7
+REWARD: -0.05833333333333333
+0.0
+-0.029166666666666664
+episode 77
+input: 
+[1131.84989549  851.01160689  992.40601772]
+action 975
+thresholds: 
+dict_items([('LF', 9), ('RF', 17), ('LB', 20), ('RB', 9)])
+dir: -60, dist: 0.4
+REWARD: -0.06666666666666667
+0.0
+-0.03333333333333333
+episode 78
+input: 
+[1567.38690268 1241.57462301 1123.88038482]
+action 967
+thresholds: 
+dict_items([('LF', 9), ('RF', 17), ('LB', 17), ('RB', 6)])
+dir: 0, dist: 0.5
+REWARD: 0.5
+0.0
+0.25
+episode 79
+input: 
+[735.4827589  806.95149026 716.46881158]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: -60, dist: 0.5
+REWARD: -0.08333333333333333
+3.0083333333333337
+2.966666666666667
+episode 80
+input: 
+[ 860.8089833   702.17963574 1292.81188419]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.6
+REWARD: 0.6
+2.966666666666667
+3.2666666666666666
+episode 81
+input: 
+[ 921.63777345 1143.88803726  793.33575757]
+action 1808
+thresholds: 
+dict_items([('LF', 17), ('RF', 6), ('LB', 20), ('RB', 9)])
+dir: -120, dist: 0.3
+REWARD: -0.09999999999999999
+0.0
+-0.049999999999999996
+episode 82
+input: 
+[1345.00980916 1184.92205512  781.69770922]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.5
+REWARD: 0.5
+3.2666666666666666
+3.5166666666666666
+episode 83
+input: 
+[1214.18358344  900.9432758  1022.74870897]
+action 1575
+thresholds: 
+dict_items([('LF', 15), ('RF', 15), ('LB', 6), ('RB', 3)])
+dir: -30, dist: 0.3
+REWARD: -0.024999999999999998
+0.0
+-0.012499999999999999
+episode 84
+input: 
+[995.71532527 714.30975301 976.00520643]
+action 2144
+thresholds: 
+dict_items([('LF', 20), ('RF', 6), ('LB', 17), ('RB', 9)])
+dir: -210, dist: 0.4
+REWARD: -0.23333333333333336
+0.0
+-0.11666666666666668
+episode 85
+input: 
+[1068.25874567 1190.33358869  968.25187261]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.5
+REWARD: 0.5
+3.5166666666666666
+3.7666666666666666
+episode 86
+input: 
+[702.48206081 826.76381167 862.1692886 ]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: -60, dist: 0.5
+REWARD: -0.08333333333333333
+3.7666666666666666
+3.7249999999999996
+episode 87
+input: 
+[1070.23655232 1069.67819075 1216.11923487]
+action 102
+thresholds: 
+dict_items([('LF', 3), ('RF', 9), ('LB', 3), ('RB', 15)])
+dir: 120, dist: 0.4
+REWARD: -0.13333333333333333
+0.0
+-0.06666666666666667
+episode 88
+input: 
+[879.67823736 870.20458621 767.75311654]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.6
+REWARD: 0.6
+3.7249999999999996
+4.0249999999999995
+episode 89
+input: 
+[1149.68388052 1133.46609299  539.74482019]
+action 130
+thresholds: 
+dict_items([('LF', 3), ('RF', 9), ('LB', 15), ('RB', 15)])
+dir: 120, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 90
+input: 
+[1100.32033086  881.22408392  951.27357121]
+action 733
+thresholds: 
+dict_items([('LF', 9), ('RF', 3), ('LB', 20), ('RB', 17)])
+dir: -180, dist: 0.2
+REWARD: -0.1
+0.0
+-0.05
+episode 91
+input: 
+[1054.48976627  654.10066783  956.64625794]
+action 280
+thresholds: 
+dict_items([('LF', 3), ('RF', 17), ('LB', 17), ('RB', 3)])
+dir: 150, dist: 0.5
+REWARD: -0.20833333333333334
+0.0
+-0.10416666666666667
+episode 92
+input: 
+[962.26965883 418.2191247  975.77304337]
+action 524
+thresholds: 
+dict_items([('LF', 6), ('RF', 12), ('LB', 15), ('RB', 20)])
+dir: -30, dist: 0.1
+REWARD: -0.008333333333333333
+0.0
+-0.004166666666666667
+episode 93
+input: 
+[1290.98563461  993.38195161  776.62970599]
+action 250
+thresholds: 
+dict_items([('LF', 3), ('RF', 17), ('LB', 3), ('RB', 17)])
+dir: 150, dist: 0.6
+REWARD: -0.25
+0.0
+-0.125
+episode 94
+input: 
+[1102.14061451  781.74283289 1335.66746497]
+action 648
+thresholds: 
+dict_items([('LF', 6), ('RF', 20), ('LB', 6), ('RB', 15)])
+dir: 120, dist: 0.5
+REWARD: -0.16666666666666666
+0.0
+-0.08333333333333333
+episode 95
+input: 
+[ 993.766592   1179.13006375  918.15345467]
+action 2057
+thresholds: 
+dict_items([('LF', 17), ('RF', 20), ('LB', 20), ('RB', 20)])
+dir: 60, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 96
+input: 
+[ 741.19529098 1004.38712553 1359.01968633]
+action 1497
+thresholds: 
+dict_items([('LF', 15), ('RF', 9), ('LB', 12), ('RB', 20)])
+dir: -30, dist: 0.2
+REWARD: -0.016666666666666666
+0.0
+-0.008333333333333333
+episode 97
+input: 
+[750.35528205 857.45196757 778.44768327]
+action 1524
+thresholds: 
+dict_items([('LF', 15), ('RF', 12), ('LB', 3), ('RB', 17)])
+dir: -30, dist: 0.5
+REWARD: -0.041666666666666664
+0.0
+-0.020833333333333332
+episode 98
+input: 
+[ 923.84473994  912.67186957 1044.06270086]
+action 1022
+thresholds: 
+dict_items([('LF', 9), ('RF', 20), ('LB', 20), ('RB', 3)])
+dir: 30, dist: 0.7
+REWARD: -0.05833333333333333
+0.0
+-0.029166666666666664
+episode 99
+input: 
+[1137.93677921 1154.95691898  921.25591542]
+action 1379
+thresholds: 
+dict_items([('LF', 15), ('RF', 3), ('LB', 6), ('RB', 3)])
+dir: -150, dist: 0.3
+REWARD: -0.125
+0.0
+-0.0625
+episode 100
+input: 
+[1170.86606571 1168.85891637 1340.88277197]
+action 1043
+thresholds: 
+dict_items([('LF', 12), ('RF', 3), ('LB', 9), ('RB', 3)])
+dir: -240, dist: 0.6
+REWARD: -0.39999999999999997
+0.0
+-0.19999999999999998
+episode 101
+input: 
+[1161.31562089  876.67912271  925.00342607]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.5
+REWARD: 0.5
+4.0249999999999995
+4.2749999999999995
+episode 102
+input: 
+[827.53610663 899.87988306 852.73560784]
+action 1657
+thresholds: 
+dict_items([('LF', 15), ('RF', 17), ('LB', 17), ('RB', 17)])
+dir: 0, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 103
+input: 
+[ 843.89749378  798.98440027 1246.70801153]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.6
+REWARD: 0.6
+4.2749999999999995
+4.574999999999999
+episode 104
+input: 
+[1062.25701264 1147.67192158 1005.11986889]
+action 1718
+thresholds: 
+dict_items([('LF', 17), ('RF', 3), ('LB', 3), ('RB', 12)])
+dir: -180, dist: 0.7
+REWARD: -0.35
+0.0
+-0.175
+episode 105
+input: 
+[1080.56126777  838.7090408  1192.23245543]
+action 37
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 17), ('RB', 9)])
+dir: -30, dist: 0.5
+REWARD: -0.041666666666666664
+0.0
+-0.020833333333333332
+episode 106
+input: 
+[1179.16924928 1050.4809728   787.76461987]
+action 854
+thresholds: 
+dict_items([('LF', 9), ('RF', 12), ('LB', 12), ('RB', 3)])
+dir: -60, dist: 0.6
+REWARD: -0.09999999999999999
+0.0
+-0.049999999999999996
+episode 107
+input: 
+[982.9591157  667.22066234 908.45322373]
+action 2137
+thresholds: 
+dict_items([('LF', 20), ('RF', 6), ('LB', 15), ('RB', 9)])
+dir: -210, dist: 0.2
+REWARD: -0.11666666666666668
+0.0
+-0.05833333333333334
+episode 108
+input: 
+[ 979.3706722   854.68138493 1536.78254466]
+action 1233
+thresholds: 
+dict_items([('LF', 12), ('RF', 15), ('LB', 6), ('RB', 6)])
+dir: 0, dist: 0.1
+REWARD: 0.1
+0.0
+0.05
+episode 109
+input: 
+[ 522.67579404  884.21202032 1512.16386674]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: -30, dist: 0.6
+REWARD: -0.049999999999999996
+4.574999999999999
+4.549999999999999
+episode 110
+input: 
+[ 887.07319306 1096.9978546   775.75009869]
+action 1665
+thresholds: 
+dict_items([('LF', 15), ('RF', 17), ('LB', 20), ('RB', 20)])
+dir: -30, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 111
+input: 
+[ 763.92109172 1197.75526606  836.32305645]
+action 228
+thresholds: 
+dict_items([('LF', 3), ('RF', 15), ('LB', 15), ('RB', 15)])
+dir: 150, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 112
+input: 
+[ 979.77534549  547.5254311  1117.18544038]
+action 1140
+thresholds: 
+dict_items([('LF', 12), ('RF', 9), ('LB', 6), ('RB', 20)])
+dir: -30, dist: 0.5
+REWARD: -0.041666666666666664
+0.0
+-0.020833333333333332
+episode 113
+input: 
+[1081.44723732 1054.39316638  938.81848123]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.5
+REWARD: 0.5
+4.549999999999999
+4.799999999999999
+episode 114
+input: 
+[1006.12882043 1016.10268935  958.46380585]
+action 1623
+thresholds: 
+dict_items([('LF', 15), ('RF', 17), ('LB', 3), ('RB', 20)])
+dir: -30, dist: 0.7
+REWARD: -0.05833333333333333
+0.0
+-0.029166666666666664
+episode 115
+input: 
+[910.28918216 991.58164747 989.02794204]
+action 1646
+thresholds: 
+dict_items([('LF', 15), ('RF', 17), ('LB', 15), ('RB', 6)])
+dir: -30, dist: 0.5
+REWARD: -0.041666666666666664
+0.0
+-0.020833333333333332
+episode 116
+input: 
+[ 813.71862073 1188.58838246  539.81513691]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: -30, dist: 0.6
+REWARD: -0.049999999999999996
+4.799999999999999
+4.774999999999999
+episode 117
+input: 
+[ 792.61331617 1133.26069771 1036.20750951]
+action 1650
+thresholds: 
+dict_items([('LF', 15), ('RF', 17), ('LB', 15), ('RB', 17)])
+dir: -30, dist: 0.2
+REWARD: -0.016666666666666666
+0.0
+-0.008333333333333333
+episode 118
+input: 
+[840.8611285  503.28164457 988.07954355]
+action 2041
+thresholds: 
+dict_items([('LF', 17), ('RF', 20), ('LB', 15), ('RB', 15)])
+dir: 30, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 119
+input: 
+[554.27022127 769.83445151 842.87365938]
+action 966
+thresholds: 
+dict_items([('LF', 9), ('RF', 17), ('LB', 17), ('RB', 3)])
+dir: 0, dist: 0.5
+REWARD: 0.5
+0.0
+0.25
+episode 120
+input: 
+[ 883.14621537 1213.68170365 1093.33934624]
+action 861
+thresholds: 
+dict_items([('LF', 9), ('RF', 12), ('LB', 15), ('RB', 3)])
+dir: -60, dist: 0.6
+REWARD: -0.09999999999999999
+0.0
+-0.049999999999999996
+episode 121
+input: 
+[1156.51644028 1057.86265242 1256.12968594]
+action 203
+thresholds: 
+dict_items([('LF', 3), ('RF', 15), ('LB', 6), ('RB', 3)])
+dir: 150, dist: 0.3
+REWARD: -0.125
+0.0
+-0.0625
+episode 122
+input: 
+[988.92351476 972.44058345 893.70376299]
+action 1565
+thresholds: 
+dict_items([('LF', 15), ('RF', 12), ('LB', 20), ('RB', 15)])
+dir: -30, dist: 0.3
+REWARD: -0.024999999999999998
+0.0
+-0.012499999999999999
+episode 123
+input: 
+[1327.95575719 1347.25824987  841.56399985]
+action 1012
+thresholds: 
+dict_items([('LF', 9), ('RF', 20), ('LB', 15), ('RB', 15)])
+dir: 30, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 124
+input: 
+[1101.64933907  536.69445366  822.05633996]
+action 1047
+thresholds: 
+dict_items([('LF', 12), ('RF', 3), ('LB', 9), ('RB', 15)])
+dir: -180, dist: 0.2
+REWARD: -0.1
+0.0
+-0.05
+episode 125
+input: 
+[ 904.0090191  1144.92819801  916.78213024]
+action 1600
+thresholds: 
+dict_items([('LF', 15), ('RF', 15), ('LB', 15), ('RB', 15)])
+dir: 0, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 126
+input: 
+[ 971.91977829 1033.56554813  977.90640676]
+action 1113
+thresholds: 
+dict_items([('LF', 12), ('RF', 6), ('LB', 17), ('RB', 3)])
+dir: -90, dist: 0.6
+REWARD: -0.15
+0.0
+-0.075
+episode 127
+input: 
+[ 977.35211394 1028.26212987  920.89069985]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.6
+REWARD: 0.6
+4.774999999999999
+5.074999999999998
+episode 128
+input: 
+[ 748.61794415 1599.30519445 1023.16446377]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.5
+REWARD: 0.5
+5.074999999999998
+5.324999999999998
+episode 129
+input: 
+[1156.09958963 1098.31580974 1214.31196073]
+action 843
+thresholds: 
+dict_items([('LF', 9), ('RF', 12), ('LB', 6), ('RB', 12)])
+dir: -60, dist: 0.4
+REWARD: -0.06666666666666667
+0.0
+-0.03333333333333333
+episode 130
+input: 
+[1226.56473681 1301.73047651  988.26334037]
+action 1849
+thresholds: 
+dict_items([('LF', 17), ('RF', 9), ('LB', 17), ('RB', 6)])
+dir: -30, dist: 0.5
+REWARD: -0.041666666666666664
+0.0
+-0.020833333333333332
+episode 131
+input: 
+[1089.32832139  651.52545499 1006.06929559]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: -60, dist: 0.5
+REWARD: -0.08333333333333333
+5.324999999999998
+5.283333333333331
+episode 132
+input: 
+[1188.98767558 1137.74080388  860.39287693]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.5
+REWARD: 0.5
+5.283333333333331
+5.533333333333331
+episode 133
+input: 
+[861.38885205 677.09311601 971.76994118]
+action 1403
+thresholds: 
+dict_items([('LF', 15), ('RF', 3), ('LB', 15), ('RB', 12)])
+dir: -180, dist: 0.1
+REWARD: -0.05
+0.0
+-0.025
+episode 134
+input: 
+[1278.96223786 1241.90093015 1138.39156367]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: -30, dist: 0.6
+REWARD: -0.049999999999999996
+5.533333333333331
+5.508333333333331
+episode 135
+input: 
+[1176.94901884  874.53727485  853.11126621]
+action 141
+thresholds: 
+dict_items([('LF', 3), ('RF', 9), ('LB', 20), ('RB', 6)])
+dir: 120, dist: 0.7
+REWARD: -0.2333333333333333
+0.0
+-0.11666666666666665
+episode 136
+input: 
+[ 968.8566523   765.31123472 1003.57079652]
+action 1032
+thresholds: 
+dict_items([('LF', 12), ('RF', 3), ('LB', 3), ('RB', 12)])
+dir: -210, dist: 0.7
+REWARD: -0.4083333333333333
+0.0
+-0.20416666666666666
+episode 137
+input: 
+[1178.73034827  563.16736346 1184.711824  ]
+action 575
+thresholds: 
+dict_items([('LF', 6), ('RF', 15), ('LB', 17), ('RB', 6)])
+dir: 30, dist: 0.6
+REWARD: -0.049999999999999996
+0.0
+-0.024999999999999998
+episode 138
+input: 
+[1111.17535373  710.64905828 1125.69275963]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.5
+REWARD: 0.5
+5.508333333333331
+5.758333333333331
+episode 139
+input: 
+[ 937.97765385 1009.79012127  875.83331583]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.6
+REWARD: 0.6
+5.758333333333331
+6.058333333333331
+episode 140
+input: 
+[766.72333026 971.99362788 664.27032787]
+action 463
+thresholds: 
+dict_items([('LF', 6), ('RF', 9), ('LB', 12), ('RB', 6)])
+dir: 0, dist: 0.4
+REWARD: 0.4
+0.0
+0.2
+episode 141
+input: 
+[1199.72109229 1348.35094238 1221.10955577]
+action 449
+thresholds: 
+dict_items([('LF', 6), ('RF', 9), ('LB', 6), ('RB', 6)])
+dir: 90, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 142
+input: 
+[ 837.85427636 1000.0954053   909.19658656]
+action 1486
+thresholds: 
+dict_items([('LF', 15), ('RF', 9), ('LB', 9), ('RB', 9)])
+dir: -30, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 143
+input: 
+[1329.85015271  856.56131804  763.68034791]
+action 1678
+thresholds: 
+dict_items([('LF', 15), ('RF', 20), ('LB', 6), ('RB', 17)])
+dir: 90, dist: 0.7
+REWARD: -0.175
+0.0
+-0.0875
+episode 144
+input: 
+[1170.35618181  903.80150774 1368.42423216]
+action 895
+thresholds: 
+dict_items([('LF', 9), ('RF', 15), ('LB', 6), ('RB', 20)])
+dir: -60, dist: 0.6
+REWARD: -0.09999999999999999
+0.0
+-0.049999999999999996
+episode 145
+input: 
+[955.11312697 844.32030127 757.20648943]
+action 2110
+thresholds: 
+dict_items([('LF', 20), ('RF', 6), ('LB', 3), ('RB', 12)])
+dir: -180, dist: 0.7
+REWARD: -0.35
+0.0
+-0.175
+episode 146
+input: 
+[1358.6397516  1094.42374566  794.20653107]
+action 2044
+thresholds: 
+dict_items([('LF', 17), ('RF', 20), ('LB', 17), ('RB', 3)])
+dir: 60, dist: 0.5
+REWARD: -0.08333333333333333
+0.0
+-0.041666666666666664
+episode 147
+input: 
+[ 691.68531979  802.01424655 1182.42759115]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: -30, dist: 0.6
+REWARD: -0.049999999999999996
+6.058333333333331
+6.033333333333331
+episode 148
+input: 
+[ 683.81111222 1087.17394819 1076.33471189]
+action 756
+thresholds: 
+dict_items([('LF', 9), ('RF', 6), ('LB', 12), ('RB', 3)])
+dir: -90, dist: 0.6
+REWARD: -0.15
+0.0
+-0.075
+episode 149
+input: 
+[ 759.40953118 1122.21118463  753.01728158]
+action 2083
+thresholds: 
+dict_items([('LF', 20), ('RF', 3), ('LB', 12), ('RB', 15)])
+dir: -240, dist: 0.1
+REWARD: -0.06666666666666667
+0.0
+-0.03333333333333333
+episode 150
+input: 
+[ 902.19315853  947.29705699 1078.39838903]
+action 1005
+thresholds: 
+dict_items([('LF', 9), ('RF', 20), ('LB', 12), ('RB', 15)])
+dir: 60, dist: 0.1
+REWARD: -0.016666666666666666
+0.0
+-0.008333333333333333
+episode 151
+input: 
+[ 785.45171423 1093.77899529 1259.79769136]
+action 1897
+thresholds: 
+dict_items([('LF', 17), ('RF', 12), ('LB', 17), ('RB', 3)])
+dir: -30, dist: 0.6
+REWARD: -0.049999999999999996
+0.0
+-0.024999999999999998
+episode 152
+input: 
+[1401.47168194  930.07214535 1204.69267515]
+action 1848
+thresholds: 
+dict_items([('LF', 17), ('RF', 9), ('LB', 17), ('RB', 3)])
+dir: -90, dist: 0.7
+REWARD: -0.175
+0.0
+-0.0875
+episode 153
+input: 
+[1035.32331232 1518.43610717  928.21881801]
+action 1914
+thresholds: 
+dict_items([('LF', 17), ('RF', 15), ('LB', 3), ('RB', 12)])
+dir: -30, dist: 0.7
+REWARD: -0.05833333333333333
+0.0
+-0.029166666666666664
+episode 154
+input: 
+[ 838.41871155 1115.89055903 1041.83273565]
+action 1615
+thresholds: 
+dict_items([('LF', 15), ('RF', 15), ('LB', 20), ('RB', 17)])
+dir: 0, dist: 0.1
+REWARD: 0.1
+0.0
+0.05
+episode 155
+input: 
+[ 758.08901028 1250.86136107  871.22062334]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.6
+REWARD: 0.6
+6.033333333333331
+6.333333333333331
+episode 156
+input: 
+[ 885.67018034 1078.97559159 1197.17033101]
+action 667
+thresholds: 
+dict_items([('LF', 6), ('RF', 20), ('LB', 15), ('RB', 9)])
+dir: 90, dist: 0.1
+REWARD: -0.025
+0.0
+-0.0125
+episode 157
+input: 
+[ 844.31311357 1027.27560892 1065.77314559]
+action 1848
+thresholds: 
+dict_items([('LF', 17), ('RF', 9), ('LB', 17), ('RB', 3)])
+dir: -30, dist: 0.6
+REWARD: -0.049999999999999996
+-0.0875
+-0.11249999999999999
+episode 158
+input: 
+[ 890.10852821  768.73775031 1008.42577855]
+action 2195
+thresholds: 
+dict_items([('LF', 20), ('RF', 9), ('LB', 17), ('RB', 15)])
+dir: -120, dist: 0.2
+REWARD: -0.06666666666666667
+0.0
+-0.03333333333333333
+episode 159
+input: 
+[931.1616516  695.30054009 786.25232539]
+action 1853
+thresholds: 
+dict_items([('LF', 17), ('RF', 9), ('LB', 17), ('RB', 17)])
+dir: -90, dist: 0.0
+REWARD: -5
+-2.5
+-5.0
+episode 160
+input: 
+[1181.69212333 1131.20669016  900.46805329]
+action 77
+thresholds: 
+dict_items([('LF', 3), ('RF', 6), ('LB', 15), ('RB', 3)])
+dir: 30, dist: 0.6
+REWARD: -0.049999999999999996
+0.0
+-0.024999999999999998
+episode 161
+input: 
+[1147.41669772  973.97996006 1162.12685804]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: -30, dist: 0.5
+REWARD: -0.041666666666666664
+6.333333333333331
+6.312499999999998
+episode 162
+input: 
+[983.57622899 923.17314599 737.43138271]
+action 667
+thresholds: 
+dict_items([('LF', 6), ('RF', 20), ('LB', 15), ('RB', 9)])
+dir: 90, dist: 0.3
+REWARD: -0.075
+-0.0125
+-0.05
+episode 163
+input: 
+[ 837.24255673 1223.12259571 1196.92212013]
+action 2015
+thresholds: 
+dict_items([('LF', 17), ('RF', 20), ('LB', 3), ('RB', 20)])
+dir: 30, dist: 0.7
+REWARD: -0.05833333333333333
+0.0
+-0.029166666666666664
+episode 164
+input: 
+[ 839.09436719  919.19025775 1157.33434097]
+action 1264
+thresholds: 
+dict_items([('LF', 12), ('RF', 15), ('LB', 17), ('RB', 15)])
+dir: 0, dist: 0.1
+REWARD: 0.1
+0.0
+0.05
+episode 165
+input: 
+[1082.16639915 1051.9641402  1297.96920339]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.5
+REWARD: 0.5
+6.312499999999998
+6.562499999999998
+episode 166
+input: 
+[ 798.43809408  484.25318675 1098.19235349]
+action 1276
+thresholds: 
+dict_items([('LF', 12), ('RF', 17), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.5
+REWARD: 0.5
+0.0
+0.25
+episode 167
+input: 
+[1102.56939101  871.36836683  805.5730677 ]
+action 281
+thresholds: 
+dict_items([('LF', 3), ('RF', 17), ('LB', 17), ('RB', 6)])
+dir: 150, dist: 0.7
+REWARD: -0.2916666666666667
+0.0
+-0.14583333333333334
+episode 168
+input: 
+[1353.95704091  687.079472   1084.40628961]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.5
+REWARD: 0.5
+6.562499999999998
+6.812499999999998
+episode 169
+input: 
+[912.27612448 997.17547321 891.23630211]
+action 1432
+thresholds: 
+dict_items([('LF', 15), ('RF', 6), ('LB', 6), ('RB', 15)])
+dir: -90, dist: 0.4
+REWARD: -0.1
+0.0
+-0.05
+episode 170
+input: 
+[ 961.96116957 1478.0716131  1065.38277591]
+action 672
+thresholds: 
+dict_items([('LF', 6), ('RF', 20), ('LB', 17), ('RB', 3)])
+dir: 90, dist: 0.8
+REWARD: -0.2
+0.0
+-0.1
+episode 171
+input: 
+[1103.21519481 1164.69906908 1120.63315684]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.5
+REWARD: 0.5
+6.812499999999998
+7.062499999999998
+episode 172
+input: 
+[1277.20529037 1018.45946286  718.30390457]
+action 550
+thresholds: 
+dict_items([('LF', 6), ('RF', 15), ('LB', 6), ('RB', 15)])
+dir: 60, dist: 0.4
+REWARD: -0.06666666666666667
+0.0
+-0.03333333333333333
+episode 173
+input: 
+[1298.49094698 1379.61386431 1027.72885744]
+action 1446
+thresholds: 
+dict_items([('LF', 15), ('RF', 6), ('LB', 12), ('RB', 15)])
+dir: -120, dist: 0.3
+REWARD: -0.09999999999999999
+0.0
+-0.049999999999999996
+episode 174
+input: 
+[ 856.37407768 1196.23525799 1102.68066428]
+action 1675
+thresholds: 
+dict_items([('LF', 15), ('RF', 20), ('LB', 6), ('RB', 9)])
+dir: 60, dist: 0.4
+REWARD: -0.06666666666666667
+0.0
+-0.03333333333333333
+episode 175
+input: 
+[635.71572124 788.59695205 899.6886793 ]
+action 720
+thresholds: 
+dict_items([('LF', 9), ('RF', 3), ('LB', 15), ('RB', 20)])
+dir: -150, dist: 0.1
+REWARD: -0.04166666666666667
+0.0
+-0.020833333333333336
+episode 176
+input: 
+[1153.32179707  626.19990546 1175.87065462]
+action 746
+thresholds: 
+dict_items([('LF', 9), ('RF', 6), ('LB', 6), ('RB', 15)])
+dir: -150, dist: 0.4
+REWARD: -0.16666666666666669
+0.0
+-0.08333333333333334
+episode 177
+input: 
+[1008.56472054  885.34484119 1111.96895563]
+action 1927
+thresholds: 
+dict_items([('LF', 17), ('RF', 15), ('LB', 9), ('RB', 9)])
+dir: -30, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 178
+input: 
+[746.80023006 968.85508842 821.29947789]
+action 75
+thresholds: 
+dict_items([('LF', 3), ('RF', 6), ('LB', 12), ('RB', 17)])
+dir: 60, dist: 0.3
+REWARD: -0.049999999999999996
+0.0
+-0.024999999999999998
+episode 179
+input: 
+[1151.94578709  722.61590124 1004.82523492]
+action 1745
+thresholds: 
+dict_items([('LF', 17), ('RF', 3), ('LB', 15), ('RB', 9)])
+dir: -180, dist: 0.3
+REWARD: -0.15
+0.0
+-0.075
+episode 180
+input: 
+[ 837.32040395 1494.34818729 1052.83028188]
+action 407
+thresholds: 
+dict_items([('LF', 6), ('RF', 6), ('LB', 9), ('RB', 6)])
+dir: 0, dist: 0.3
+REWARD: 0.3
+0.0
+0.15
+episode 181
+input: 
+[1061.51021682  957.23168365  664.61883127]
+action 142
+thresholds: 
+dict_items([('LF', 3), ('RF', 9), ('LB', 20), ('RB', 9)])
+dir: 150, dist: 0.3
+REWARD: -0.125
+0.0
+-0.0625
+episode 182
+input: 
+[1073.79552469 1085.16038298 1178.40297365]
+action 1671
+thresholds: 
+dict_items([('LF', 15), ('RF', 20), ('LB', 3), ('RB', 17)])
+dir: 60, dist: 0.6
+REWARD: -0.09999999999999999
+0.0
+-0.049999999999999996
+episode 183
+input: 
+[1131.8059663   869.9387779   842.80947128]
+action 382
+thresholds: 
+dict_items([('LF', 6), ('RF', 3), ('LB', 17), ('RB', 15)])
+dir: -90, dist: 0.3
+REWARD: -0.075
+0.0
+-0.0375
+episode 184
+input: 
+[1081.21592116  747.41548489 1157.69110368]
+action 1042
+thresholds: 
+dict_items([('LF', 12), ('RF', 3), ('LB', 6), ('RB', 20)])
+dir: -180, dist: 0.5
+REWARD: -0.25
+0.0
+-0.125
+episode 185
+input: 
+[1079.41613101 1079.10603837  991.25420096]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: -30, dist: 0.5
+REWARD: -0.041666666666666664
+7.062499999999998
+7.041666666666664
+episode 186
+input: 
+[1198.63605453 1013.34860953  556.91823599]
+action 1322
+thresholds: 
+dict_items([('LF', 12), ('RF', 17), ('LB', 20), ('RB', 20)])
+dir: 0, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 187
+input: 
+[ 912.33025072 1312.48385381 1112.64174832]
+action 2139
+thresholds: 
+dict_items([('LF', 20), ('RF', 6), ('LB', 15), ('RB', 15)])
+dir: -210, dist: 0.1
+REWARD: -0.05833333333333334
+0.0
+-0.02916666666666667
+episode 188
+input: 
+[1070.47556582 1008.12023539  873.76958291]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.5
+REWARD: 0.5
+7.041666666666664
+7.291666666666664
+episode 189
+input: 
+[ 944.81157494 1067.56402482 1002.93335892]
+action 2074
+thresholds: 
+dict_items([('LF', 20), ('RF', 3), ('LB', 9), ('RB', 9)])
+dir: -210, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 190
+input: 
+[ 892.12172404  858.27844255 1199.99038199]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: 0, dist: 0.6
+REWARD: 0.6
+7.291666666666664
+7.591666666666664
+episode 191
+input: 
+[ 973.94407377 1046.85221102 1276.23443703]
+action 713
+thresholds: 
+dict_items([('LF', 9), ('RF', 3), ('LB', 12), ('RB', 20)])
+dir: -210, dist: 0.2
+REWARD: -0.11666666666666668
+0.0
+-0.05833333333333334
+episode 192
+input: 
+[1138.06193046 1242.43693172 1288.60559126]
+action 1676
+thresholds: 
+dict_items([('LF', 15), ('RF', 20), ('LB', 6), ('RB', 12)])
+dir: 0, dist: 0.3
+REWARD: 0.3
+0.0
+0.15
+episode 193
+input: 
+[940.77989464 989.29016676 672.26566908]
+action 1793
+thresholds: 
+dict_items([('LF', 17), ('RF', 6), ('LB', 15), ('RB', 6)])
+dir: -150, dist: 0.3
+REWARD: -0.125
+0.0
+-0.0625
+episode 194
+input: 
+[1024.4606207   503.14880324 1452.99726286]
+action 261
+thresholds: 
+dict_items([('LF', 3), ('RF', 17), ('LB', 9), ('RB', 9)])
+dir: 120, dist: 0.0
+REWARD: -5
+0.0
+-2.5
+episode 195
+input: 
+[839.30627642 603.66669433 987.83714769]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: -30, dist: 0.6
+REWARD: -0.049999999999999996
+7.591666666666664
+7.566666666666665
+episode 196
+input: 
+[1008.09985732  790.17887904 1271.40458414]
+action 844
+thresholds: 
+dict_items([('LF', 9), ('RF', 12), ('LB', 6), ('RB', 15)])
+dir: -90, dist: 0.5
+REWARD: -0.125
+0.0
+-0.0625
+episode 197
+input: 
+[604.20231894 954.94509729 684.95904965]
+action 1522
+thresholds: 
+dict_items([('LF', 15), ('RF', 12), ('LB', 3), ('RB', 12)])
+dir: -30, dist: 0.6
+REWARD: -0.049999999999999996
+0.0
+-0.024999999999999998
+episode 198
+input: 
+[1180.32852616 1089.69666692 1106.36526241]
+action 2086
+thresholds: 
+dict_items([('LF', 20), ('RF', 3), ('LB', 15), ('RB', 3)])
+dir: -240, dist: 0.6
+REWARD: -0.39999999999999997
+0.0
+-0.19999999999999998
+episode 199
+input: 
+[1042.2991664   904.26324814 1173.67112966]
+action 2
+thresholds: 
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+dir: -30, dist: 0.5
+REWARD: -0.041666666666666664
+7.566666666666665
+7.545833333333331
+2 7.545833333333331
+dict_items([('LF', 3), ('RF', 3), ('LB', 3), ('RB', 9)])
+=====================
+0 -2.5
+1 -0.016666666666666666
+2 7.545833333333331
+3 0.0
+4 0.0
+5 0.0
+6 0.0
+--- 120.12038731575012 seconds ---
